@@ -1,4 +1,3 @@
-```markdown
 # WEEK February 8 2026
 
 ## Sun
@@ -143,4 +142,3 @@ Dumbbell: 50 or 35 lb, 22.5 or 15 kg
 16 Kettlebell Gorilla Rows  
 10-12 Dual Dumbbell Zottman Curls  
 10 or 10 Landmine Trunk Rotations
-```
