@@ -1,4 +1,3 @@
-```markdown
 # WEEK March 1 2026
 
 ## Sun
@@ -157,4 +156,3 @@ For Quality:
 3 Sets  
 :30 Wall Sit March  
 :30 Weighted Sorenson Hold
-```
